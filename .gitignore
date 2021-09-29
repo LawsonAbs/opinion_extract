@@ -1,3 +1,4 @@
 code/runs/*
 code/model/*
 *.pyc
+model/*
